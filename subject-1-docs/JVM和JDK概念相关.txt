@@ -1,0 +1,2 @@
+Hotspot运行描述
+http://openjdk.java.net/groups/hotspot/docs/RuntimeOverview.html#VM%20Class%20Loading|outline
