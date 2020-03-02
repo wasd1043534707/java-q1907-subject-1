@@ -12,9 +12,7 @@ public class Demo1Visibility {
             public void run() {
                 System.out.println("here i am...");
                 while(demo.isRunning){
-                    synchronized (this){
-                        demo.i++;
-                    }
+                    demo.i++;
                 }
                 System.out.println(demo.i);
             }
